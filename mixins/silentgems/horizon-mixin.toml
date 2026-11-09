@@ -1,0 +1,17 @@
+[mod]
+id = "silentgems"
+version = "5.2.0"
+priority = 100
+
+[compatibility]
+horizon_revision = "83ad384f48d0742746d518737511882680aab5b7"
+
+# The pure gem-registry model (standalone crate lib, injected as
+# `crate::game::silentgems`). Slice 1 is content-only: the 21 gem items and 21
+# storage blocks are declared in ../content, so this bundle has no injection.
+# The 9 tests pin the registry the content generator reads.
+[[module]]
+id = "runtime"
+file = "crates/horizon-client/src/game.rs"
+name = "silentgems"
+source = "runtime.rs"

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "silentgems:black_diamond"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "silentgems:blocks/nether_black_diamond_ore"
+}

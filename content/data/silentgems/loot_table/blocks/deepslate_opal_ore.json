@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "silentgems:opal"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "silentgems:blocks/deepslate_opal_ore"
+}

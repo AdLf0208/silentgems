@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "silentgems:peridot"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "silentgems:blocks/peridot_ore"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "silentgems:ammolite"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "silentgems:blocks/deepslate_ammolite_ore"
+}

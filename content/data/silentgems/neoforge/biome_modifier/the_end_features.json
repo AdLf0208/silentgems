@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": [
+    "silentgems:the_end/heliodor_ore",
+    "silentgems:the_end/turquoise_ore",
+    "silentgems:the_end/kyanite_ore",
+    "silentgems:the_end/ammolite_ore",
+    "silentgems:the_end/rose_quartz_ore",
+    "silentgems:the_end/white_diamond_ore",
+    "silentgems:the_end/garnet_ore",
+    "silentgems:the_end/opal_ore",
+    "silentgems:the_end/pearl_ore"
+  ],
+  "step": "underground_ores"
+}

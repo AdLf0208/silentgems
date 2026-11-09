@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "silentgems:rose_quartz"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "silentgems:blocks/nether_rose_quartz_ore"
+}

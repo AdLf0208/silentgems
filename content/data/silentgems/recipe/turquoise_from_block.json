@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "silentgems:turquoise_block"
+  ],
+  "result": {
+    "id": "silentgems:turquoise",
+    "count": 9
+  }
+}

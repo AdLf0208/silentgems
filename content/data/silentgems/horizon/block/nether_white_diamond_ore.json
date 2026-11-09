@@ -1,0 +1,10 @@
+{
+  "template": "minecraft:nether_quartz_ore",
+  "properties": {
+    "hardness": 4.0,
+    "explosion_resistance": 4.0,
+    "requires_tool": true,
+    "sounds": "minecraft:nether_quartz_ore"
+  },
+  "item": true
+}

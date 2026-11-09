@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "silentgems:carnelian_block"
+  ],
+  "result": {
+    "id": "silentgems:carnelian",
+    "count": 9
+  }
+}

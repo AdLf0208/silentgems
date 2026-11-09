@@ -1,0 +1,13 @@
+# Port-owned content mod for Silent's Gems 5.2.0, slices 1-2: the 21 gem items,
+# their 21 storage blocks and their 84 ore blocks (overworld, deepslate, nether
+# and end), with the overworld/nether/end ore worldgen. The textures, models
+# and lang are the upstream mod's own MIT assets; the port is local-only until
+# the maintainer approves publishing (see ../LICENSE and ../notes.md).
+id = "silentgems"
+name = "Silent's Gems"
+version = "5.2.0"
+description = "Twenty-one gems, their storage blocks and their ores"
+authors = ["SilentChaos512"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

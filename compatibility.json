@@ -1,0 +1,10 @@
+{
+  "horizon_revision": "83ad384f48d0742746d518737511882680aab5b7",
+  "source_sha256": {
+    "crates/horizon-client/src/game.rs": "996432b9f7f9461fa69c90ff798daf6b89fe3795f379d7c6f401916633296463"
+  },
+  "horizon_repository": "https://github.com/horizon-rust/horizon",
+  "horizon_mixins_repository": "https://github.com/horizon-rust/horizon-mixins",
+  "horizon_mixins_revision": "e8cd0aa38cffef49cb2e088ef716baa107148c02",
+  "mixin_schema": 6
+}

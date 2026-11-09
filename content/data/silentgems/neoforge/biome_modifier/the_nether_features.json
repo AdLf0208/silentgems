@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "silentgems:the_nether/carnelian_ore",
+    "silentgems:the_nether/citrine_ore",
+    "silentgems:the_nether/moldavite_ore",
+    "silentgems:the_nether/iolite_ore",
+    "silentgems:the_nether/alexandrite_ore",
+    "silentgems:the_nether/black_diamond_ore",
+    "silentgems:the_nether/tanzanite_ore",
+    "silentgems:the_nether/pearl_ore"
+  ],
+  "step": "underground_ores"
+}
